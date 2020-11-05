@@ -75,3 +75,5 @@
   * borde inferior: gradiente 0
   * borde derecho: gradiente 0
 ### imagenes y gif:
+![alt text](https://github.com/tomasmunozj/MCOC2020-P3-G6-E5/blob/main/Ejemplo_caso7.gif?raw=true)
+![alt text](https://github.com/tomasmunozj/MCOC2020-P3-G6-E5/blob/main/Evolucion_Temperaturas_caso7.png?raw=true)
