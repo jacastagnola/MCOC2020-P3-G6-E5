@@ -3,18 +3,18 @@
 ## CASO 1
 ### condiciones de borde:
   * 20º inicial
-  * borde superior:
-  * borde izquierdo:
-  * borde inferior:
-  * borde derecho:
+  * borde superior: 0
+  * borde izquierdo: 20
+  * borde inferior: 20 
+  * borde derecho: 0
  
 ## CASO 2
 ### condiciones de borde:
   * 20º inicial
-  * borde superior:
-  * borde izquierdo:
-  * borde inferior:
-  * borde derecho:
+  * borde superior: 0
+  * borde izquierdo: 20
+  * borde inferior: 20
+  * borde derecho: gradiente 0
   
 ## CASO 3
 ### condiciones de borde:
@@ -22,7 +22,7 @@
   * borde superior: 0
   * borde izquierdo: 20
   * borde inferior: 20
-  * borde derecho: 0
+  * borde derecho: 20
   
 ## CASO 4
 ### condiciones de borde:
