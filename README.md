@@ -36,22 +36,22 @@
 ### condiciones de borde:
   * 5º inicial
   * borde superior: 0
-  * borde izquierdo: 20
-  * borde inferior: 20
-  * borde derecho: 20
+  * borde izquierdo: 25
+  * borde inferior: 0
+  * borde derecho: 25
   
 ## CASO 6
 ### condiciones de borde:
   * 30º inicial
-  * borde superior:
-  * borde izquierdo:
-  * borde inferior:
-  * borde derecho:
+  * borde superior: 0
+  * borde izquierdo: 10
+  * borde inferior: 0
+  * borde derecho: 0
   
 ## CASO 7
 ### condiciones de borde:
   * 20º inicial
-  * borde superior:
-  * borde izquierdo:
-  * borde inferior:
-  * borde derecho:
+  * borde superior: Temperatura ambiental (sinusoide con variación de 10°, período de 1 día)
+  * borde izquierdo: gradiente 0
+  * borde inferior: gradiente 0
+  * borde derecho: gradiente 0
