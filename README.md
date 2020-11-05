@@ -1,6 +1,6 @@
 # MCOC2020-P3-G6-E5
 ### Descripción de como hay que cambiar las condiciones de borde, en el código:
- * Para cada caso, las condiciones de borde cambiaban, por lo que fue necesario cambiarlas en el codigo de python dos veces, primero en la definicion de estas, la cual se encuentran en las lineas 104-108 en donde con comentarios se indican cual es la izq,der,sup e inferior. Y segundo, para asegurar el cumplimiento, en las lineas 121-125.Finalmente, Cabe destacar que la condicion de borde inicial, se cambió en la linea Numero 54.
+ * Se hara una descripción general para los casos 1-6, ya que el codigo de python es el mismo para estos, por lo que las lineas que cambian en cada caso son las mismas.  Las condiciones de borde, fue necesario cambiarlas en el codigo de python dos veces, primero en la definicion de estas, la cual se encuentran en las lineas 104-108 en donde con comentarios se indican cual es la izq,der,sup e inferior. Y segundo, para asegurar el cumplimiento, en las lineas 121-125.Finalmente, Cabe destacar que la condicion de borde inicial, se cambió en la linea Numero 54.
 ## CASO 1
 ### condiciones de borde:
   * 20º inicial
